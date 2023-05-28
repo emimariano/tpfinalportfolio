@@ -1,3 +1,21 @@
 header{
     background-color: aqua;
 }
+.hero{
+    background-color: rgb(58, 208, 88);
+}
+.sobremi{
+    background-color: blue;
+}
+.mishabilidades{
+    background-color: aquamarine;
+}
+.misservicios{
+    background-color: rgb(2, 25, 67);
+}
+.miportfolio{
+    background-color: rgb(30, 196, 143);
+}
+.micontacto{
+    background-color: rgb(71, 153, 220);
+}
